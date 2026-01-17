@@ -1,6 +1,10 @@
+---
+title: Rachel D. Mark
+---
+
 ## About me!
 
-My name is **Rachel** (she/they). I’m a **maker, artist, and stop-motion fabricator** based in Los Angeles, CA, USA.
+Hey there, my name is **Rachel** (she/they), and I’m a **maker, artist, and stop-motion fabricator** based in Los Angeles, CA, USA.
 
 I’m a **lead painter and puppet fabricator** with **10+ years of professional experience** in stop-motion and live-action animation. My work focuses on traditional painting, sculpting, and 3D modeling for rapid prototyping. With a sunny disposition, and the end-to-end technical skills to bring your creative ideas from initial sketches into reality!
 - Navigating important design decisions  
