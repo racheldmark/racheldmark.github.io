@@ -3,8 +3,6 @@
 My name is **Rachel** (she/they). I’m a **maker, artist, and stop-motion fabricator** based in Los Angeles, CA, USA.
 
 I’m a **lead painter and puppet fabricator** with **10+ years of professional experience** in stop-motion and live-action animation. My work focuses on traditional painting, sculpting, and 3D modeling for rapid prototyping, with end-to-end technical skills to bring ideas from initial sketches into reality.
-
-### What I do
 - Navigating important design decisions  
 - Budgeting and guidance for development cost savings  
 - Digital modeling and 3D printing (rapid prototyping)  
