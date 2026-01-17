@@ -16,7 +16,7 @@ I’m a **lead painter and puppet fabricator** with **10+ years of professional 
 ​In my former life, I was a **software developer**. I graduated from Northeastern University, in Boston, with a BS in Computer Science in 2003. After college I had a very successful 6+ year career as a programmer in the video-game industry. Sadly, my work in the intangible world of software was not fulfilling for me or sustainable as a life long career path.
 
 In 2009, I took a leap of faith and quit my programming gig to become a traditional artist and work in my dream job as a stop-motion puppet fabricator. Rather than returning to college I sought out classes around LA and created my own curriculum between local schools and workshops. Through hard work, persistence, and my "don't be a dick" mantra, I realized my dreams and found my way into paid full-time work in stop-motion. Once inside, I have continued to build my portfolio of skills and work in various departments, including puppet and scenic painting, puppet fabrication, rapid prototyping (3D print shop), set dressing, and prop fabrication.
-⠀⠀⠀⠀⠀⠀⠀⠀⠀
+
 I am grateful for all of the opportunities I have been given, and the incredible artists that I work with across many imaginative studios here in Los Angeles.​
 
 ---
