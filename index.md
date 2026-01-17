@@ -2,7 +2,7 @@
 
 My name is **Rachel** (she/they). I’m a **maker, artist, and stop-motion fabricator** based in Los Angeles, CA, USA.
 
-I’m a **lead painter and puppet fabricator** with **10+ years of professional experience** in stop-motion and live-action animation. My work focuses on traditional painting, sculpting, and 3D modeling for rapid prototyping, with end-to-end technical skills to bring ideas from initial sketches into reality.
+I’m a **lead painter and puppet fabricator** with **10+ years of professional experience** in stop-motion and live-action animation. My work focuses on traditional painting, sculpting, and 3D modeling for rapid prototyping. With a sunny disposition, and the end-to-end technical skills to bring your creative ideas from initial sketches into reality!
 - Navigating important design decisions  
 - Budgeting and guidance for development cost savings  
 - Digital modeling and 3D printing (rapid prototyping)  
@@ -13,22 +13,11 @@ I’m a **lead painter and puppet fabricator** with **10+ years of professional 
 
 ## Background
 
-In a former life, I was a **software developer**. I graduated from Northeastern University in Boston with a **BS in Computer Science (2003)** and spent over **six years** working as a programmer in the video game industry.
+​In my former life, I was a **software developer**. I graduated from Northeastern University, in Boston, with a BS in Computer Science in 2003. After college I had a very successful 6+ year career as a programmer in the video-game industry. Sadly, my work in the intangible world of software was not fulfilling for me or sustainable as a life long career path.
 
-While successful, working in the intangible world of software was not fulfilling or sustainable for me long-term.
-
-In 2009, knowing I wanted to become a traditional artist and work in stop-motion animation, I took a leap of faith and left my programming career. Instead of returning to college, I built my own curriculum through local schools and workshops around Los Angeles.
-
-Through hard work, persistence, and my personal mantra of *“don’t be a dick,”* I realized my dream of working professionally in stop-motion animation.
-
-Since then, I’ve continued to expand my skill set across multiple departments, including:
-- Puppet and scenic painting  
-- Puppet fabrication  
-- Rapid prototyping (3D print shops)  
-- Set dressing  
-- Prop fabrication  
-
-I’m deeply grateful for the opportunities I’ve been given and for the incredible artists I get to work alongside across many imaginative studios in Los Angeles.
+In 2009, I took a leap of faith and quit my programming gig to become a traditional artist and work in my dream job as a stop-motion puppet fabricator. Rather than returning to college I sought out classes around LA and created my own curriculum between local schools and workshops. Through hard work, persistence, and my "don't be a dick" mantra, I realized my dreams and found my way into paid full-time work in stop-motion. Once inside, I have continued to build my portfolio of skills and work in various departments, including puppet and scenic painting, puppet fabrication, rapid prototyping (3D print shop), set dressing, and prop fabrication.
+⠀⠀⠀⠀⠀⠀⠀⠀⠀
+I am grateful for all of the opportunities I have been given, and the incredible artists that I work with across many imaginative studios here in Los Angeles.​
 
 ---
 
