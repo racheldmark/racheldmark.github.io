@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: Rachel D. Mark
-description: Personal site
+description: Maker, hacker, and artist based in Los Angeles, CA, USA.
+show_downloads: false
+lang: en
+markdown: kramdown
+kramdown:
+  input: GFM
