@@ -1,4 +1,4 @@
-## Hey there!
+## About me!
 
 My name is **Rachel** (she/they). I’m a **maker, artist, and stop-motion fabricator** based in Los Angeles, CA, USA.
 
