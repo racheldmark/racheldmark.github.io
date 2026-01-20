@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 
 ## Let's Connect!
-Thanks for showing an interest in my work. If you’d like to connect or collaborate, feel free to drop me a message below. I’m always excited to take on fun new projects and commissions.
+Thanks for showing an interest in my work. Here are a few ways to reach me.
 
 **Social Media**  
 I'm not as active this year as I have been in the past but you can find me on social media ([**@racheldmark**](https://www.instagram.com/racheldmark) on Instagram), where I share my creative process and current projects.
@@ -14,6 +14,8 @@ For mentorship and coaching, please use the **Mentoring** link above, or visit [
 
 ---
 ## Contact Form
+
+If you’d like to connect or collaborate, feel free to drop me a message here. I’m always excited to take on fun new projects and commissions. Response times are slow right now due to high work load, but I ususally email back within 3-5 business days.
 
 ### What to include in your message
 
