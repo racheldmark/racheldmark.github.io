@@ -1,5 +1,6 @@
 ---
 title: Field Notes
+permalink:/field_notes/
 ---
 
 ## Field Notes
