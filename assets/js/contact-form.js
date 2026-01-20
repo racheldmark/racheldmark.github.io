@@ -1,8 +1,8 @@
-document.addEventListener("DOMContentLoaded", function () {
+function initContactForm() {
   const form = document.getElementById("contact-form");
   const success = document.getElementById("form-success");
 
-  if (!form) return;
+  if (!form || !success) return;
 
   form.addEventListener("submit", function (e) {
     e.preventDefault();
@@ -12,11 +12,9 @@ document.addEventListener("DOMContentLoaded", function () {
     fetch(form.action, {
       method: form.method,
       body: data,
-      headers: {
-        Accept: "application/json"
-      }
+      headers: { Accept: "application/json" }
     })
-      .then(response => {
+      .then((response) => {
         if (response.ok) {
           form.style.display = "none";
           success.style.display = "block";
@@ -29,4 +27,10 @@ document.addEventListener("DOMContentLoaded", function () {
         alert("Something went wrong. Please try again later.");
       });
   });
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initContactForm);
+} else {
+  initContactForm();
+}
