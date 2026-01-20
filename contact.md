@@ -55,3 +55,4 @@ Tell me a bit about yourself and what’s prompting you to reach out.
   <p>I’ll be in touch soon.</p>
   <p>--Rachel</p>
 </div>
+<script src="{{ '/assets/js/contact-form.js' | relative_url }}"></script>
